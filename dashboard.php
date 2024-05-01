@@ -43,7 +43,7 @@ require_once 'C:\wamp64\www\textbook_trove\config_session.inc.php';
                                     <div class="form-group">
                                         <input type="text" class="form-control" name="search_num" placeholder="student number" required>
                                     </div> 
-                                    <div style="margine-left:10px;">
+                                    <div style="margin-left:10px;">
                                         <button style= "margin-left:10px" type="submit" name="search" class="btn btn-primary" >🔎</button> 
                                     </div>  
                                 </div>                                                                                                                  
